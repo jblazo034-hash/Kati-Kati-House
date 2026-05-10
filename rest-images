@@ -1,0 +1,18 @@
+<section id="menu">
+      <div class="menu">
+  
+        <div class="card">
+          <img src="rest-images/achu.jpeg">
+          <h3>Achu</h3>
+          <p>3500 FCFA</p>
+        </div>
+  
+        <div class="card">
+          <img src="rest-images/ekwang.jpeg">
+          <h3>Ekwang</h3>
+          <p>3000 FCFA</p>
+        </div>
+  
+      </div>
+    </section>
+  
